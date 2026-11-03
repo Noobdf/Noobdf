@@ -1,8 +1,20 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Olá! Eu sou Gileno Oliveira 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Estou desenvolvendo minhas habilidades em programação web com projetos práticos de interfaces e APIs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Tecnologias presentes nos meus projetos
+
+- **Interfaces:** HTML, CSS e JavaScript.
+- **Back-end:** Node.js e Express.
+- **Banco de dados:** MongoDB com Mongoose.
+
+## Projetos
+
+| Projeto | O que estou construindo | Tecnologias |
+| --- | --- | --- |
+| [Lista de tarefas](https://github.com/Noobdf/todolist) | Aplicação para adicionar, editar, concluir, excluir, pesquisar e filtrar tarefas. | HTML, CSS e JavaScript |
+| [API de filmes](https://github.com/Noobdf/WS) | API em desenvolvimento para cadastrar e listar filmes em um banco de dados. | Node.js, Express e MongoDB |
+
+## Aprendizado na prática
+
+Nestes projetos, pratico manipulação do DOM, eventos em JavaScript, rotas HTTP e persistência de dados com MongoDB. Os READMEs de cada repositório descrevem o funcionamento, a execução local e os próximos passos.
