@@ -6,11 +6,11 @@ Estou desenvolvendo minhas habilidades em programação web com projetos prátic
 
 ### [CineLista: catálogo de filmes](https://github.com/Noobdf/WS)
 
-Aplicação web com **CRUD completo** para cadastrar, consultar, editar e excluir filmes. Inclui busca por título ou gênero, filtros de assistidos, interface responsiva em React e persistência em MongoDB.
+Aplicação web com **CRUD completo** para cadastrar, consultar, editar e excluir filmes. Inclui busca por título ou gênero, filtros de assistidos, interface responsiva em React, rotas integradas no Next.js e persistência em MongoDB.
 
 ![Interface do CineLista](https://raw.githubusercontent.com/Noobdf/WS/main/docs/cinelista.png)
 
-**Tecnologias:** React, Vite, Node.js, Express, MongoDB, Mongoose, HTML, CSS e JavaScript.
+**Tecnologias:** React, Next.js, MongoDB, Mongoose, CSS e JavaScript.
 
 **Práticas presentes:** validação no servidor, respostas HTTP de erro, configuração por variáveis de ambiente, testes HTTP com MongoDB temporário e fluxo de testes no GitHub Actions.
 
@@ -25,7 +25,7 @@ Aplicação web com **CRUD completo** para cadastrar, consultar, editar e exclui
 
 **Interfaces:** React, HTML, CSS e JavaScript.
 
-**Servidor:** Node.js e Express.
+**Aplicações completas:** Next.js com páginas React e rotas de API integradas.
 
 **Banco de dados:** MongoDB com Mongoose.
 
