@@ -4,7 +4,7 @@ Estou desenvolvendo minhas habilidades em programação web com projetos prátic
 
 ## Projeto em destaque
 
-### [CineLista — catálogo de filmes](https://github.com/Noobdf/WS)
+### [CineLista: catálogo de filmes](https://github.com/Noobdf/WS)
 
 Aplicação web com **CRUD completo** para cadastrar, consultar, editar e excluir filmes. Inclui busca por título ou gênero, filtros de assistidos, interface responsiva e persistência em MongoDB.
 
@@ -18,14 +18,19 @@ Aplicação web com **CRUD completo** para cadastrar, consultar, editar e exclui
 
 ## Outros projetos
 
-- [Lista de tarefas](https://github.com/Noobdf/todolist): aplicação para adicionar, editar, concluir, excluir, pesquisar e filtrar tarefas com JavaScript.
+[Lista de tarefas](https://github.com/Noobdf/todolist): aplicação para adicionar, editar, concluir, excluir, pesquisar e filtrar tarefas com JavaScript.
+
 
 ## Tecnologias presentes nos meus projetos
 
-- **Interfaces:** HTML, CSS e JavaScript.
-- **Back-end:** Node.js e Express.
-- **Banco de dados:** MongoDB com Mongoose.
-- **Qualidade:** testes automatizados com o test runner do Node.js.
+**Interfaces:** HTML, CSS e JavaScript.
+
+**Servidor:** Node.js e Express.
+
+**Banco de dados:** MongoDB com Mongoose.
+
+**Qualidade:** testes automatizados com o test runner do Node.js.
+
 
 ## Aprendizado na prática
 
